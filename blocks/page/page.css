@@ -1,0 +1,7 @@
+.page {
+    /* max-width: 1920px; */
+    height: 900px;
+    background-color: #181818;
+    background-image: url('../../images/vector.png');
+    margin: 0;
+}
